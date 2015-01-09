@@ -1,0 +1,46 @@
+.thumb img {
+	height: 50px;
+}
+
+.table-container {
+	margin: 0 50px;
+}
+
+.striker .header {
+	font-size: 25px;
+	font-weight: bold;
+	margin-bottom: 20px;
+}
+
+.striker {
+	border-bottom: 1px solid #e1e1e1;
+	margin-bottom: 20px;
+}
+
+#reports {
+	max-width: 1024px;
+	margin: 0 auto;
+	padding-top: 60px;
+}
+
+.table-container .dataTables_wrapper .row .col-sm-12 {
+	margin-top: 10px;
+	border: 1px solid #e1e1e1;
+}
+
+.table-container .dataTables_wrapper .row .col-sm-12 table {;
+	margin-bottom: 0px;
+}
+
+#search {
+	background: #101010;
+	padding: 10px;
+	position: fixed;
+	top: 0;
+	width: 100%;
+	z-index: 10;
+}
+
+#search form {
+	margin-bottom: 0px;
+}
